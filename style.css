@@ -43,14 +43,6 @@ body {
   color: #ff5555;
 }
 
-#wrapper .links {
-  padding: 60px 0;
-}
-
-#wrapper .links + .links{
-  padding: 0;
-}
-
 #wrapper a {
   width: 250px;
   height: 20px;

@@ -47,6 +47,10 @@ body {
   padding: 60px 0;
 }
 
+#wrapper .links + .links{
+  padding: 0;
+}
+
 #wrapper a {
   width: 250px;
   height: 20px;
